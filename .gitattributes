@@ -1,2 +1,2 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+#Reclassifies .html files as Java, so that the repository shows Java rather than HTML as the language.
 *.html linguist-language=Java

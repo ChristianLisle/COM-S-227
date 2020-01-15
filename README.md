@@ -7,4 +7,4 @@ The PDF (assignment specifications/instructions) given to me for each assignment
 If you have any questions feel free to email me at lisleachristian@gmail.com.
 
 An image of the Space Invaders game I completed:
-![Space Invaders Gameplay](https://christianlisle.com/wp-content/uploads/2020/01/Space-Invaders-Mobile.png)
+![Space Invaders Gameplay](https://christianlisle.com/wp-content/uploads/2020/01/Space-Invaders-1.gif)

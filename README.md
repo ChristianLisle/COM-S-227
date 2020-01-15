@@ -5,6 +5,3 @@ All assignments are listed in the index, sorted accordingly. Directories startin
 The PDF (assignment specifications/instructions) given to me for each assignment is contained in each directory accordingly.
 
 If you have any questions feel free to email me at lisleachristian@gmail.com.
-
-An image of the Space Invaders game I completed:
-![Space Invaders Gameplay](https://christianlisle.com/wp-content/uploads/2020/01/Space-Invaders-1.gif)

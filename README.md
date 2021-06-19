@@ -1,5 +1,5 @@
 # COM-S-227-Archive
-This is an archive of my assignments from the course Computer Science 227 (Object-Oriented Programming) at Iowa State University in the fall of 2019. **View more about this class and some of the assignments [here](https://www.christianlisle.com/computer-science-227-object-oriented-programming/).**
+This is an archive of my assignments from the course Computer Science 227 (Object-Oriented Programming) at Iowa State University in the fall of 2019. **View more about this class and some of the assignments [here](https://christianlisle.com/2019/12/20/com-s-227/).**
 
 All assignments are listed in the index, sorted accordingly. Directories starting with an A represent a regular assignment, whereas those starting with M represent a mini assignment.
 The PDF (assignment specifications/instructions) given to me for each assignment is contained in each directory accordingly.
